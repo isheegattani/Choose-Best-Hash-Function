@@ -2,6 +2,6 @@
 ChoosingHashFct
 
 Group members:
-
-Ada Lovelace adalovelace@csu.fullerton.edu
-Charles Babbage charlesbab@csu.fullerton.edu
+Abhishek Gujamagdi abhi215@csu.fullerton.edu
+Ishee Gattani ishee@csu.fullerton.edu
+Prathyusha Gundlapally prathyushag@csu.fullerton.edu
